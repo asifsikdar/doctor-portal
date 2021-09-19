@@ -1,0 +1,16 @@
+.icon-item{
+    text-align: center;
+    margin-top: 70px;
+}
+.item-align{
+    margin-right: -73px;
+}
+
+.item-align h5{
+    margin-top: 30px;
+    text-align: center;
+}
+.item-align h6{
+    margin-top: 20px;
+    opacity: 0.5;
+}

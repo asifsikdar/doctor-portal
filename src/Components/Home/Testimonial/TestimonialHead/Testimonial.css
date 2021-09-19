@@ -1,0 +1,25 @@
+.section-mid{
+    margin-top: 130px;
+}
+.text-size{
+    padding: 25px 20px 26px 20px;
+}
+.text-size img{
+    margin-top: 0px;
+    position: absolute;
+}
+.text-item h5{
+    color: #1CC7C1;
+    text-align: center;
+}
+.text-item{
+    margin-top: -73px;
+    position: relative;
+}
+.text-item h6{
+    margin-left: 126px;
+    opacity: 0.7;
+}
+.content{
+    padding: 15px;
+}

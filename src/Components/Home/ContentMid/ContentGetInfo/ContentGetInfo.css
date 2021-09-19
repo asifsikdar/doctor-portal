@@ -1,0 +1,18 @@
+.resize-items{
+    margin-top: 150px;
+}
+.resize-items img{
+    height: 500px;
+    width: 700px;
+}
+.text-align{
+    margin-top: 70px;
+}
+.text-align p{
+    float: left;
+    opacity: 0.5;
+}
+.button-style{
+  margin-top: 55px;
+    opacity: unset;
+}

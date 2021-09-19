@@ -1,0 +1,24 @@
+.text-sizee{
+    margin-top: 127px;
+    color: #1CC7C1;
+    font-weight: bold;
+}
+.items{
+    text-align: center;
+}
+.rel-content{
+    position: absolute;
+    margin-left: 169px;
+}
+.font-size h5{
+    font-weight: bold;
+}
+.abs-content{
+    position: relative;
+    margin-right: 105px;
+}
+.content-container{
+    transform: translateY(-115px);
+    background-color: white;
+    padding: 0px 0px 75px 0px;
+}

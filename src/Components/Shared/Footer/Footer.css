@@ -1,0 +1,11 @@
+.icon-list{
+    margin-top: 30px;
+   color: #1CC7C1;
+    line-height: 10px;
+    font-size: 35px;
+}
+.button{
+    background: linear-gradient(to left, #33ccff 0%, #00ffcc 100%);
+    font-weight: bold;
+    color: white;
+}

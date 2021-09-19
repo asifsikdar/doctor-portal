@@ -1,0 +1,13 @@
+.info-primary {
+    background-color: #1CC7C1;
+    padding: 24px;
+    color: white;
+}
+.info-dark{
+    background-color: #3A4256;
+    padding: 24px;
+    color: white;
+}
+.icon-size{
+    font-size: 3rem;
+}

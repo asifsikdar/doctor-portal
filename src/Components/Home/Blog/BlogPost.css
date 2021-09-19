@@ -1,0 +1,26 @@
+.text-up img{
+    position: absolute;
+}
+.text-up{
+    padding: 0px 0px 60px 0px;
+}
+.texts{
+    position: relative;
+    text-align: center;
+}
+.texts h5{
+font-weight: bold;
+}
+.des-size h6{
+   margin-top: 30px;
+    opacity: 0.7;
+}
+.head{
+    text-align: center;
+    padding: 0px 0px 70px 0px;
+}
+.hover-item:hover{
+    background-color: #1CC7C1;
+
+}
+

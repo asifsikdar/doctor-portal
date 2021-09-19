@@ -1,0 +1,16 @@
+.form-group input{
+    padding: 5px 200px;
+    border-color: #1CC7C1;
+    /*border: none;*/
+    border-radius: 5px;
+}
+.form-group select{
+    padding: 5px 250px;
+}
+.button-b{
+    float: right;
+    background-color: #1CC7C1;
+    color: white;
+    border: none;
+    padding: 5px 20px;
+}
